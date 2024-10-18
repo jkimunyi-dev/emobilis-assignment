@@ -49,6 +49,7 @@ Django is a high-level Python web framework that allows developers to create sec
 - **On Hover**: Stays green.
 - **On Click**: Changes to light green.
 
+
 ## Contributing
 
 Feel free to fork this repository, make improvements, and submit pull requests. Any contributions that improve the content or functionality are welcome.
