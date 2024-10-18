@@ -30,6 +30,12 @@ h1 {
     font-size: 32px;
 }
 
+h2 {
+    margin-top: 30px;
+    color: #333;
+    font-size: 28px;
+}
+
 p {
     color: #555;
     font-size: 18px;
@@ -39,7 +45,7 @@ p {
 }
 
 .styled-button {
-    background-color: #007BFF;
+    background-color: orange;
     color: white;
     padding: 12px 24px;
     border: none;
@@ -50,6 +56,6 @@ p {
     margin: 0 auto;
 }
 
-.styled-button:hover {
-    background-color: #ADD8E6; /* Light blue on hover */
+.styled-button:active {
+    background-color: lightorange; /* Light orange on click */
 }
