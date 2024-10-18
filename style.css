@@ -45,7 +45,7 @@ p {
 }
 
 .styled-button {
-    background-color: orange;
+    background-color: green;
     color: white;
     padding: 12px 24px;
     border: none;
@@ -57,5 +57,5 @@ p {
 }
 
 .styled-button:active {
-    background-color: lightorange; /* Light orange on click */
+    background-color: lightgreen; /* Light green on click */
 }
